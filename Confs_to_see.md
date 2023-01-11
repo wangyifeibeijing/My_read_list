@@ -12,7 +12,7 @@
 
 # These conferences WE CAN TRY
 
-| Abstract time | Submission time | Rebuttal      | Notification | Conference  | Call                                                        | others |
+| Abstract | Submission | Rebuttal      | Notification | Conference  | Call                                                        | others |
 |:--------------|:----------------|:--------------|:-------------|:------------|:------------------------------------------------------------|:-------|
 | 2023-01-24    | 2023-01-31      | None          | 2023-04-04   | SIGIR 2023  | <https://sigir.org/sigir2023/submit/call-for-full-papers/>  | NONE|
 | None          | 2023-02-02      | 2023-04-06+27 | 2023-05-18   | SIGKDD 2023 | <https://kdd.org/kdd2023/call-for-research-track-papers/>   | NONE|
